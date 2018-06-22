@@ -1,0 +1,9 @@
+Django==2.0.5
+mysqlclient==1.3.12
+python-axolotl==0.1.42
+python-axolotl-curve25519==0.4.1.post2
+python-dateutil==2.7.3
+python-dotenv==0.8.2
+requests==2.18.4
+urllib3==1.22
+webwhatsapi==2.0.5
